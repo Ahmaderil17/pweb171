@@ -1,0 +1,98 @@
+body
+{
+ background-color: #680000;
+ margin: center;
+ background-image: url("img/Explosion-Art-Triangle-Gif.gif");
+ ;
+}
+h1
+{
+ text-align: center;
+ background-color: #bff5dd;
+ font-style: oblique;
+ font-weight: lighter;
+}
+h3
+{
+  background-color: #33cccc;
+  text-align: center;
+  font-style: oblique;
+  font-weight: lighter;
+}
+a:link, a:visited, a:active
+{
+ width: 200px;
+ margin: 2px;
+ background-color: #059305;
+ color: white;
+ padding: 10px 25px;
+ text-align: center;
+ text-d
+ ecoration: none;
+ display: inline-block;
+}
+a:hover
+{
+ width: 250px;
+ margin: 2px;
+ background-color: #c60909;
+ color: white;
+ padding: 10px 25px;
+ text-align: center;
+ text-decoration: underline;
+ display: inline-block;
+}
+img
+{
+ width: 400px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+#lagu
+{
+ text-align: center;
+ font-family: Verdana;
+ font-size: 18px;
+ font-style: italic;
+ color: #fff;
+}
+#menu{
+  width: 100px;
+  height: 800px;
+  margin: left;
+  background-color: #3d4ebd;
+  float: left;
+
+}
+.mainmenubtn {
+    background-color: #514fbe;
+    color: #d9c0c8;
+    border: none;
+    cursor: pointer;
+    padding:5px;
+    margin-top:20px;
+    width: 270px;
+    z-index: auto;
+    border: 1px solid #e04514;
+
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-child {
+    display: none;
+    background-color:#080f0f;
+    min-width: 200px;
+}
+.dropdown-child a {
+    color: #e1d0e6;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+
+}
+.dropdown:hover .dropdown-child {
+    display: block;
+}

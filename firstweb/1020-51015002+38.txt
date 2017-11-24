@@ -1,0 +1,8 @@
++10 tugas masuk
++4 html
++3 option css wajib
++10 html tambahan
++2 option css tambahan
++6 selector
++2 tg <img>
+jumlah = 38
