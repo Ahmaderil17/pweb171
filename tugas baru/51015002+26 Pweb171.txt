@@ -1,0 +1,7 @@
++10 selesai tugas
++5 tampilan template
++5 untuk custom template
++14 custom selector
+-5
+-5 content non lagu
++2 untuk copyright

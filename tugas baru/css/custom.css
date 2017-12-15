@@ -1,0 +1,38 @@
+.jumbotron{
+
+background-color: #125fa1;
+
+}
+
+
+body{
+
+  background: linear-gradient(to bottom right,#125fa1,#fff);
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+
+    color: #fff;
+    font-family:sans-serif;
+    text-shadow: 2px 2px #000;
+    box-shadow: 3PX 3PX   #125FA1;
+
+}
+.btn-outline-success{
+  color : #c71585;
+border-color: #000080;
+
+}
+.btn-secondary{
+  color: #fff;
+  background-color: #1e90ff;
+  border-color: #fff
+}
+
+
+.navbar-collapse{
+  background-color: #125fa1;
+
+}
+.bg-dark{
+  background-color: #125fa1!important;
+}
